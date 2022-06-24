@@ -1,0 +1,33 @@
+
+Terms:
+
+● Variable
+Vars or Variables remember specific data, Such as a value. However it depends on the DataType
+● Assignment
+Something that assigns a value or data, For example the equals sign (=) assigns a value to a variable.
+● Statement
+An entire state, containing an assignment, a variable, and a value.
+(XYZ = 5)
+● Expression
+When variables operators and function are put into one statement.
+● Integer
+A Number value DataType
+● Float
+A number value DataType designed for decimals.
+● String
+A DataType that holds multiple characters
+● Literal
+A variable that cannot change its value
+● Boolean
+A true or false vale DataType
+● Identifier
+A name defined by the user for a program element.
+● Camel Case
+When a sentance or text has no spaces and the beginning of every word is captialized.
+(ThisIsACamelCaseSentanceShowcaseExamplePresentation)
+(CamelCase)
+● Reserved Words
+else, if, or, and, etc.
+● Naming Convention
+A set of style guidelines defined by a host for naming variables.
+(Host can be a Team, Company, Teacher, Individual person, etc)
